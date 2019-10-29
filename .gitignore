@@ -130,5 +130,6 @@ bower_componets
 psd
 thumb
 sketch
+.vscode
 
 # End of https://www.gitignore.io/api/react,django
