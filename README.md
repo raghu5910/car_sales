@@ -9,6 +9,10 @@ At the root of project directory, execute following lines
 
 ```
 $npm install
- Create a python virtual environment
+```
+
+After creating and activating a python virtual environment
+
+```
 $pip install -r requirements.txt
 ```
